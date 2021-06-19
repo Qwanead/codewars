@@ -1,0 +1,29 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Codewars",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint  --ext .js ./",
+    "test": "jest -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwanead/codewars.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qwanead/codewars/issues"
+  },
+  "homepage": "https://github.com/Qwanead/codewars#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jest": "^24.3.5",
+    "eslint-plugin-jest-formatting": "^2.0.1",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {}
+}
